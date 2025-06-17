@@ -37,6 +37,8 @@
 
 ---
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=didgmltmd)](https://solved.ac/didgmltmd)
+
 ## 🧩 Projects
 
 ### 🎮 Maple Ranking System (2025)

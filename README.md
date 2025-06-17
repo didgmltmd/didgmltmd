@@ -37,7 +37,6 @@
 
 ---
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gomboy11)](https://solved.ac/gomboy11)
 
 ## 🧩 Projects
 
@@ -81,6 +80,7 @@
 
 ![YangHeeseung's GitHub stats](https://github-readme-stats.vercel.app/api?username=didgmltmd&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=didgmltmd&layout=compact)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gomboy11)](https://solved.ac/gomboy11)
 
 ---
 

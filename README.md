@@ -38,5 +38,4 @@
 
 ## 📫 Contact
 
-- Email: gomboy11@naver.com
-- Notion 소개 페이지: [Click Here](https://mud-enquiry-b56.notion.site/2114623a4d0680bdbc43f2ad943167d2?source=copy_link)  
+- Email: gomboy03@gmail.com

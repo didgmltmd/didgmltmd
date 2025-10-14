@@ -38,4 +38,4 @@
 
 ## 📫 Contact
 
-- Email: gomboy03@gmail.com
+- Email: gomboy11@naver.com

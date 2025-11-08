@@ -1,4 +1,4 @@
-<h1 align="center">양희승 | 프론트엔드 개발자 지망생</h1>
+<h1 align="center">양희승 | 프론트엔드 개발자</h1>
 
 <p align="center">
   끊임없이 도전하는 개발자입니다.<br/>

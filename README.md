@@ -37,5 +37,5 @@
 ---
 
 ## 📫 Contact
-- Portfolio: https://portfolio-stie.onrender.com (진행중)
+- Portfolio: https://portfolio-stie.onrender.com (작업중)
 - Email: gomboy11@naver.com

@@ -7,7 +7,7 @@
 ---
 
 
-## 🛠 Tech Stack1
+## 🛠 Tech Stack
 
 ### Front-End
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -37,5 +37,5 @@
 ---
 
 ## 📫 Contact
-- Portfolio: https://portfolio-stie.onrender.com (작업중)
+- Portfolio: https://portfolio-stie.onrender.com (작업중단)
 - Email: gomboy11@naver.com

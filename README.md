@@ -30,8 +30,8 @@
 
 ## 📊 GitHub Stats
 
-![YangHeeseung's GitHub stats](https://github-readme-stats.vercel.app/api?username=didgmltmd&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=didgmltmd&layout=compact)
+[![trophy](https://github-profile-trophy.vercel.app/?username=didgmltmd&theme=flat&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+![Most Used Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=didgmltmd&layout=compact&hide_border=true)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gomboy11)](https://solved.ac/gomboy11)
 
 ---

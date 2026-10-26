@@ -72,13 +72,9 @@
 
 ## 🤝 Activities
 
-| 활동 | 링크 |
-|:--|:--|
-| 🦁 멋쟁이사자처럼 대학 · 연암공과대학교 | [LikeLion-Yonam](https://github.com/LikeLion-Yonam-Institute-of-Technology) |
-| 🔬 KTL 정도검사 업무 자동화 | [YC-Dr-link](https://github.com/YC-Dr-link) |
-| 📚 러닝메이트 실습 사이트 운영 | [learningmate-lab](https://github.com/learningmate-lab) |
-| 🌉 2025 BRIDGE DAY 행사 페이지 | [사이트](https://yc-aisw.github.io/bridge_day/) |
-| 🏆 해커톤 | [AI 해커톤](https://github.com/AiHackerTon) · [구름 해커톤](https://github.com/goormHackerton) · [2026 AI 구름 해커톤](https://github.com/2026AigroomHackerton) · [교내 해커톤 팀 생성기](https://github.com/YC-AISW/2026-hackathon-team-maker) |
+- 🦁 [멋쟁이사자처럼 대학 · 연암공과대학교](https://github.com/LikeLion-Yonam-Institute-of-Technology)
+- 📚 [러닝메이트 실습 사이트 운영](https://learningmate-lab.github.io/)
+- 🏆 해커톤: [AI 해커톤](https://github.com/AiHackerTon) · [구름 해커톤](https://github.com/goormHackerton) · [2026 AI 구름 해커톤](https://github.com/2026AigroomHackerton)
 
 <br/>
 

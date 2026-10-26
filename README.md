@@ -23,11 +23,7 @@
 
 ## 🛠 Tech Stack
 
-| | |
-|:--|:--|
-| **Front-End** | <img src="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind,materialui&perline=8" /> |
-| **Back-End** | <img src="https://skillicons.dev/icons?i=fastapi,python,postgres,nodejs,express,prisma,supabase&perline=8" /> |
-| **Infra · Tools** | <img src="https://skillicons.dev/icons?i=docker,githubactions,vercel,figma&perline=8" /> |
+<img src="https://skillicons.dev/icons?i=react,ts,tailwind,fastapi,python,postgres,nodejs,docker" />
 
 <br/>
 

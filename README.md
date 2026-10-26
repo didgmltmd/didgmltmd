@@ -7,7 +7,6 @@
 <br/>
 
 <a href="mailto:gomboy11@naver.com"><img src="https://img.shields.io/badge/Email-gomboy11@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white" /></a>
-<a href="https://solved.ac/gomboy11"><img src="https://img.shields.io/badge/solved.ac-gomboy11-17CE3A?style=flat-square" /></a>
 
 </div>
 
@@ -88,10 +87,6 @@
 <div align="center">
 
 <img src="./github-metrics.svg" alt="GitHub metrics" />
-
-<br/>
-
-<a href="https://solved.ac/gomboy11"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gomboy11" /></a>
 
 </div>
 

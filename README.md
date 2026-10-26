@@ -21,8 +21,6 @@
 
 <br/>
 
-## 🤝 Activities
-
 🦁 [멋쟁이사자처럼 대학](https://github.com/LikeLion-Yonam-Institute-of-Technology) · 📚 [러닝메이트](https://learningmate-lab.github.io/) · 🏆 해커톤 3회
 
 <br/>

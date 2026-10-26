@@ -25,10 +25,4 @@
 
 <br/>
 
-<div align="center">
-
-<img src="./github-metrics.svg" alt="GitHub metrics" />
-
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3178C6,100:61DAFB&height=120&section=footer" width="100%" />

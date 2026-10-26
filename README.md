@@ -36,9 +36,7 @@
 
 ## 🤝 Activities
 
-- 🦁 [멋쟁이사자처럼 대학 · 연암공과대학교](https://github.com/LikeLion-Yonam-Institute-of-Technology)
-- 📚 [러닝메이트 실습 사이트 운영](https://learningmate-lab.github.io/)
-- 🏆 해커톤: [AI 해커톤](https://github.com/AiHackerTon) · [구름 해커톤](https://github.com/goormHackerton) · [2026 AI 구름 해커톤](https://github.com/2026AigroomHackerton)
+🦁 [멋쟁이사자처럼 대학](https://github.com/LikeLion-Yonam-Institute-of-Technology) · 📚 [러닝메이트](https://learningmate-lab.github.io/) · 🏆 해커톤 3회
 
 <br/>
 

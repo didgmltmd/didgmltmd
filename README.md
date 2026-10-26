@@ -17,7 +17,7 @@
 
 - 🧑‍💻 **양희승** · 프론트엔드 중심 풀스택 개발자
 - 🎓 연암공과대학교
-- 🏭 지금은 **금호석유화학 울산수지공장 안전 관제 웹**과 **KTL 정도검사 업무 자동화**를 만들고 있어요
+- 🏭 지금은 **공장 안전 관제 웹**, **SiC 결함 분석기**, **KTL 정도검사 업무 자동화**를 만들고 있어요
 - 🛠 화면 설계부터 API, DB, 배포, 푸시 알림까지 한 서비스를 끝까지 만드는 걸 좋아해요
 
 <br/>
@@ -38,11 +38,20 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🏭 안전운영 통합관제</h3>
-      <sub>금호석유화학 울산수지공장 · 석유 한잔 팀 · 관제 웹 프론트엔드 담당</sub>
+      <sub>금호석유화학 울산수지공장 · 관제 웹 프론트엔드 담당</sub>
       <p>작업자 실시간 위치, 비상 경보·대피, 과속 기록, 출입 관리를 한 화면에서 다루는 공장 안전 관제 시스템</p>
       <code>React</code> <code>TypeScript</code> <code>Leaflet</code> <code>FastAPI</code> <code>PostGIS</code>
       <p><sub>🔒 비공개 프로젝트</sub></p>
     </td>
+    <td width="50%" valign="top">
+      <h3>🔬 SiC XRT 결함 분석기</h3>
+      <sub>캡스톤 프로젝트 · 1인 개발</sub>
+      <p>SiC 웨이퍼 X선 이미지에서 결함(BPD·TED·TSD)을 찾아 분류하는 데스크톱 분석 앱과 딥러닝 모델</p>
+      <code>Python</code> <code>PySide6</code> <code>PyTorch</code> <code>ImageJ</code>
+      <p><a href="https://github.com/CrystalVision-Lab">📂 CrystalVision-Lab</a></p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>⚔️ RAIDROOM</h3>
       <sub>개인 프로젝트</sub>
@@ -50,53 +59,12 @@
       <code>React</code> <code>TypeScript</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>Docker</code>
       <p><a href="https://didgmltmd.github.io/">🔗 사이트 바로가기</a></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
-      <h3>🏠 DormMate</h3>
-      <sub>연암공과대학교 기숙사</sub>
-      <p>기숙사 생활을 위한 설치형 웹 앱(PWA). 푸시 알림 지원</p>
-      <code>React</code> <code>PWA</code>
-      <p><a href="https://didgmltmd.github.io/dormmate/">🔗 사이트 바로가기</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛏 기숙사 입사 확인 시스템</h3>
-      <sub>관리자 도구</sub>
-      <p>입사 예정자 확인, 현장 입사 처리, 통계, 인수인계를 한 화면에서 처리</p>
+      <h3>🏠 연암공과대학교 기숙사 서비스</h3>
+      <sub>학생용 앱 + 관리자 도구</sub>
+      <p>학생용 기숙사 웹 앱 DormMate(PWA·푸시 알림)와 입사 확인·통계·인수인계 관리자 도구</p>
       <code>React</code> <code>TypeScript</code> <code>FastAPI</code> <code>PostgreSQL</code>
-      <p><sub>🔒 비공개 프로젝트</sub></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚕 Smart Ride 관리자</h3>
-      <sub>택시 회사 관리자 웹</sub>
-      <p>사용자 관리, 정산 엑셀 업로드, 공지사항과 확인 현황 관리</p>
-      <code>React</code> <code>Express</code> <code>Vitest</code> <code>Playwright</code>
-      <p><a href="https://github.com/didgmltmd/smartride_admin">📂 저장소</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📚 러닝메이트 실습 사이트</h3>
-      <sub>수업용 시험 대비 실습 모음</sub>
-      <p>Ubuntu 터미널을 흉내 낸 리눅스 명령어 실습 등 수업용 실습 사이트 운영</p>
-      <code>HTML</code> <code>JavaScript</code>
-      <p><a href="https://learningmate-lab.github.io/">🔗 사이트 바로가기</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎪 축제 주문 관리 시스템</h3>
-      <sub>실시간 주문·조리·서빙 현황</sub>
-      <p>축제 부스 주문 상태를 구역별 대시보드에 실시간 동기화</p>
-      <code>React</code> <code>Socket.IO</code> <code>Express</code>
-      <p><a href="https://github.com/didgmltmd/festival_front">📂 Front</a> · <a href="https://github.com/didgmltmd/festival_backend">📂 Back</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📊 Maple Project</h3>
-      <sub>메이플스토리 캐릭터 랭킹</sub>
-      <p>장비 정보로 환산 전투력을 계산하고 친구들끼리 랭킹 비교</p>
-      <code>React</code> <code>MUI</code> <code>Nexon Open API</code>
-      <p><a href="https://github.com/didgmltmd/Maple_Project">📂 저장소</a></p>
+      <p><a href="https://didgmltmd.github.io/dormmate/">🔗 DormMate 바로가기</a></p>
     </td>
   </tr>
 </table>

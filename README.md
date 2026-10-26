@@ -119,6 +119,10 @@
 
 <div align="center">
 
+<img src="./github-metrics.svg" alt="GitHub metrics" />
+
+<br/><br/>
+
 <img src="https://streak-stats.demolab.com/?user=didgmltmd&hide_border=true&background=00000000&ring=3178C6&fire=61DAFB&currStreakLabel=3178C6" height="165" />
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=didgmltmd&layout=compact&hide_border=true&bg_color=00000000&langs_count=8" height="165" />
 

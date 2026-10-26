@@ -27,40 +27,10 @@
 
 ## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏭 안전운영 통합관제</h3>
-      <sub>금호석유화학 울산수지공장 · 관제 웹 프론트엔드 담당</sub>
-      <p>작업자 실시간 위치, 비상 경보·대피, 과속 기록, 출입 관리를 한 화면에서 다루는 공장 안전 관제 시스템</p>
-      <code>React</code> <code>TypeScript</code> <code>Leaflet</code> <code>FastAPI</code> <code>PostGIS</code>
-      <p><sub>🔒 비공개 프로젝트</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔬 SiC XRT 결함 분석기</h3>
-      <sub>캡스톤 프로젝트 · 1인 개발</sub>
-      <p>SiC 웨이퍼 X선 이미지에서 결함(BPD·TED·TSD)을 찾아 분류하는 데스크톱 분석 앱과 딥러닝 모델</p>
-      <code>Python</code> <code>PySide6</code> <code>PyTorch</code> <code>ImageJ</code>
-      <p><a href="https://github.com/CrystalVision-Lab">📂 CrystalVision-Lab</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚔️ RAIDROOM</h3>
-      <sub>개인 프로젝트</sub>
-      <p>로스트아크 캐릭터·공격대·일정·시세·경매 계산을 한곳에서 관리하는 웹 앱. 푸시 알림 지원</p>
-      <code>React</code> <code>TypeScript</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>Docker</code>
-      <p><a href="https://didgmltmd.github.io/">🔗 사이트 바로가기</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏠 연암공과대학교 기숙사 서비스</h3>
-      <sub>학생용 앱 + 관리자 도구</sub>
-      <p>학생용 기숙사 웹 앱 DormMate(PWA·푸시 알림)와 입사 확인·통계·인수인계 관리자 도구</p>
-      <code>React</code> <code>TypeScript</code> <code>FastAPI</code> <code>PostgreSQL</code>
-      <p><a href="https://didgmltmd.github.io/dormmate/">🔗 DormMate 바로가기</a></p>
-    </td>
-  </tr>
-</table>
+- 🏭 **안전운영 통합관제** — 금호석유화학 공장 작업자 위치·비상 경보 관제 웹 (프론트엔드 담당) `React` `Leaflet`
+- 🔬 **SiC XRT 결함 분석기** — 웨이퍼 X선 이미지 결함 분류 앱·모델 (캡스톤, 1인 개발) `PySide6` `PyTorch`
+- ⚔️ **[RAIDROOM](https://didgmltmd.github.io/)** — 로스트아크 공격대·일정·시세 관리 웹 앱 `React` `FastAPI`
+- 🏠 **[DormMate](https://didgmltmd.github.io/dormmate/)** — 연암공과대학교 기숙사 앱·관리자 도구 `React` `FastAPI`
 
 <br/>
 

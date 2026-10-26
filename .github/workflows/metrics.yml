@@ -1,0 +1,28 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 15 * * *" # 매일 00:00 (한국 시간)
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: didgmltmd
+          template: classic
+          config_timezone: Asia/Seoul
+          base: header, activity, community, repositories
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_languages: yes
+          plugin_languages_limit: 6
+          plugin_languages_ignored: html, css, scss
+          plugin_followup: yes
+          plugin_followup_sections: user

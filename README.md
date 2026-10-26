@@ -2,10 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:3178C6&height=200&section=header&text=Heeseung%20Yang&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Frontend-focused%20Full-stack%20Developer&descSize=18&descAlignY=58" width="100%" />
 
-<br/>
-
-<a href="mailto:gomboy11@naver.com"><img src="https://img.shields.io/badge/Email-gomboy11@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white" /></a>
-
 </div>
 
 <br/>
